@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chislo nad ili pod 200\bin\Debug\chislo nad ili pod 200.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chislo nad ili pod 200\bin\Debug\chislo nad ili pod 200.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chislo nad ili pod 200\bin\Debug\chislo nad ili pod 200.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chislo nad ili pod 200\obj\Debug\chislo nad ili pod 200.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chislo nad ili pod 200\obj\Debug\chislo nad ili pod 200.pdb

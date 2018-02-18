@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\bin\Debug\Chetna ili Nechetna suma.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\bin\Debug\Chetna ili Nechetna suma.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\bin\Debug\Chetna ili Nechetna suma.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\obj\Debug\Chetna ili Nechetna suma.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\obj\Debug\Chetna ili Nechetna suma.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Chetna ili Nechetna suma\obj\Debug\Chetna ili Nechetna suma.pdb

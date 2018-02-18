@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislo v diapazona 1..100 (while)\bin\Debug\chislo_v_diapazona_1._._100__while_.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislo v diapazona 1..100 (while)\bin\Debug\chislo_v_diapazona_1._._100__while_.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislo v diapazona 1..100 (while)\bin\Debug\chislo_v_diapazona_1._._100__while_.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislo v diapazona 1..100 (while)\obj\Debug\chislo_v_diapazona_1._._100__while_.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislo v diapazona 1..100 (while)\obj\Debug\chislo_v_diapazona_1._._100__while_.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\po golqmo chislo\bin\Debug\po golqmo chislo.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\po golqmo chislo\bin\Debug\po golqmo chislo.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\po golqmo chislo\bin\Debug\po golqmo chislo.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\po golqmo chislo\obj\Debug\po golqmo chislo.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\po golqmo chislo\obj\Debug\po golqmo chislo.pdb

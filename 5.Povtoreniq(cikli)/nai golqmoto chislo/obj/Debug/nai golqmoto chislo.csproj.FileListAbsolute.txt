@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\nai golqmoto chislo\bin\Debug\nai golqmoto chislo.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\nai golqmoto chislo\bin\Debug\nai golqmoto chislo.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\nai golqmoto chislo\bin\Debug\nai golqmoto chislo.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\nai golqmoto chislo\obj\Debug\nai golqmoto chislo.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\nai golqmoto chislo\obj\Debug\nai golqmoto chislo.pdb

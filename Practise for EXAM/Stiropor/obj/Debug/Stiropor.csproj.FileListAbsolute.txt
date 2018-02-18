@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\bin\Debug\Stiropor.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\bin\Debug\Stiropor.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\bin\Debug\Stiropor.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\obj\Debug\Stiropor.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\obj\Debug\Stiropor.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Stiropor\obj\Debug\Stiropor.pdb

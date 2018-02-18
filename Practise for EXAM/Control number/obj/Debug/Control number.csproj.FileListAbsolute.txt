@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Control number\bin\Debug\Control number.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Control number\bin\Debug\Control number.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Control number\bin\Debug\Control number.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Control number\obj\Debug\Control number.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Control number\obj\Debug\Control number.pdb

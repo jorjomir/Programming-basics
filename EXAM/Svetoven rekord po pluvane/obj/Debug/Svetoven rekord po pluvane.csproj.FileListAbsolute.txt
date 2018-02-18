@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\EXAM\Svetoven rekord po pluvane\bin\Debug\Svetoven rekord po pluvane.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\Svetoven rekord po pluvane\bin\Debug\Svetoven rekord po pluvane.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Svetoven rekord po pluvane\bin\Debug\Svetoven rekord po pluvane.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\Svetoven rekord po pluvane\obj\Debug\Svetoven rekord po pluvane.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Svetoven rekord po pluvane\obj\Debug\Svetoven rekord po pluvane.pdb

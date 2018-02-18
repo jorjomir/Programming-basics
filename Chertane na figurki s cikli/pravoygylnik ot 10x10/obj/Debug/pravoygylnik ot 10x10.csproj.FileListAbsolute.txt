@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\bin\Debug\pravoygylnik ot 10x10.exe.config
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\bin\Debug\pravoygylnik ot 10x10.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\bin\Debug\pravoygylnik ot 10x10.pdb
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\obj\Debug\pravoygylnik ot 10x10.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\obj\Debug\pravoygylnik ot 10x10.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\pravoygylnik ot 10x10\obj\Debug\pravoygylnik ot 10x10.pdb

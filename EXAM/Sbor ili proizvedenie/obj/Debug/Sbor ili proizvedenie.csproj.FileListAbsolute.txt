@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\EXAM\Sbor ili proizvedenie\bin\Debug\Sbor ili proizvedenie.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\Sbor ili proizvedenie\bin\Debug\Sbor ili proizvedenie.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Sbor ili proizvedenie\bin\Debug\Sbor ili proizvedenie.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\Sbor ili proizvedenie\obj\Debug\Sbor ili proizvedenie.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Sbor ili proizvedenie\obj\Debug\Sbor ili proizvedenie.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\obj\Debug\Sumirane na glasni bukvi.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\bin\Debug\Sumirane na glasni bukvi.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\bin\Debug\Sumirane na glasni bukvi.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\bin\Debug\Sumirane na glasni bukvi.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\obj\Debug\Sumirane na glasni bukvi.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\Sumirane na glasni bukvi\obj\Debug\Sumirane na glasni bukvi.pdb

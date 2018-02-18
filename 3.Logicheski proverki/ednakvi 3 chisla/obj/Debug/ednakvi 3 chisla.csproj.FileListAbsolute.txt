@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\ednakvi 3 chisla\bin\Debug\ednakvi 3 chisla.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\ednakvi 3 chisla\bin\Debug\ednakvi 3 chisla.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\ednakvi 3 chisla\bin\Debug\ednakvi 3 chisla.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\ednakvi 3 chisla\obj\Debug\ednakvi 3 chisla.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\ednakvi 3 chisla\obj\Debug\ednakvi 3 chisla.pdb

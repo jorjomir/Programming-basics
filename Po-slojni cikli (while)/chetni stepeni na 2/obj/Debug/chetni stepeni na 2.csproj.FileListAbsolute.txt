@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\bin\Debug\chetni stepeni na 2.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\bin\Debug\chetni stepeni na 2.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\bin\Debug\chetni stepeni na 2.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\obj\Debug\chetni stepeni na 2.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\obj\Debug\chetni stepeni na 2.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chetni stepeni na 2\obj\Debug\chetni stepeni na 2.csprojResolveAssemblyReference.cache

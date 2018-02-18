@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\EXAM\figura\bin\Debug\figura.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\figura\bin\Debug\figura.exe
+C:\Users\Georgi\Desktop\C#\EXAM\figura\bin\Debug\figura.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\figura\obj\Debug\figura.exe
+C:\Users\Georgi\Desktop\C#\EXAM\figura\obj\Debug\figura.pdb

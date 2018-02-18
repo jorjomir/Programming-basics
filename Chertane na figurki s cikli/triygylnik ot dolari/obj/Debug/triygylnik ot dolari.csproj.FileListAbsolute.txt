@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\triygylnik ot dolari\bin\Debug\triygylnik ot dolari.exe.config
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\triygylnik ot dolari\bin\Debug\triygylnik ot dolari.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\triygylnik ot dolari\bin\Debug\triygylnik ot dolari.pdb
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\triygylnik ot dolari\obj\Debug\triygylnik ot dolari.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\triygylnik ot dolari\obj\Debug\triygylnik ot dolari.pdb

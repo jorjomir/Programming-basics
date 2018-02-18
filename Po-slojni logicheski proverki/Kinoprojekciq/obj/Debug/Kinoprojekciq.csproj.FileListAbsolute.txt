@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\bin\Debug\Kinoprojekciq.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\bin\Debug\Kinoprojekciq.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\bin\Debug\Kinoprojekciq.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\obj\Debug\Kinoprojekciq.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\obj\Debug\Kinoprojekciq.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Kinoprojekciq\obj\Debug\Kinoprojekciq.pdb

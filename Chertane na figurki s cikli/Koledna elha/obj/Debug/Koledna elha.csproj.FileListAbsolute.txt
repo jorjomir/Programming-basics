@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\Koledna elha\bin\Debug\Koledna elha.exe.config
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\Koledna elha\bin\Debug\Koledna elha.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\Koledna elha\bin\Debug\Koledna elha.pdb
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\Koledna elha\obj\Debug\Koledna elha.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\Koledna elha\obj\Debug\Koledna elha.pdb

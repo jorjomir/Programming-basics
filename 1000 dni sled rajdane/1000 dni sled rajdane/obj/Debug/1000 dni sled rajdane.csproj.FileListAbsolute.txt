@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\1000 dni sled rajdane\1000 dni sled rajdane\bin\Debug\1000 dni sled rajdane.exe.config
+C:\Users\Georgi\Desktop\C#\1000 dni sled rajdane\1000 dni sled rajdane\bin\Debug\1000 dni sled rajdane.exe
+C:\Users\Georgi\Desktop\C#\1000 dni sled rajdane\1000 dni sled rajdane\bin\Debug\1000 dni sled rajdane.pdb
+C:\Users\Georgi\Desktop\C#\1000 dni sled rajdane\1000 dni sled rajdane\obj\Debug\1000 dni sled rajdane.exe
+C:\Users\Georgi\Desktop\C#\1000 dni sled rajdane\1000 dni sled rajdane\obj\Debug\1000 dni sled rajdane.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\romb ot zvezdi\bin\Debug\romb ot zvezdi.exe.config
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\romb ot zvezdi\bin\Debug\romb ot zvezdi.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\romb ot zvezdi\bin\Debug\romb ot zvezdi.pdb
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\romb ot zvezdi\obj\Debug\romb ot zvezdi.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\romb ot zvezdi\obj\Debug\romb ot zvezdi.pdb

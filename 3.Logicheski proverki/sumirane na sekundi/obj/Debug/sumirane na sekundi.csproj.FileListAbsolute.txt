@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\bin\Debug\sumirane na sekundi.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\bin\Debug\sumirane na sekundi.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\bin\Debug\sumirane na sekundi.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\obj\Debug\sumirane na sekundi.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\obj\Debug\sumirane na sekundi.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\sumirane na sekundi\obj\Debug\sumirane na sekundi.pdb

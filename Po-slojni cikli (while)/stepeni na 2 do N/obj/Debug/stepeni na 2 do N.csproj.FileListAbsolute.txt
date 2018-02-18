@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\stepeni na 2 do N\bin\Debug\stepeni na 2 do N.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\stepeni na 2 do N\bin\Debug\stepeni na 2 do N.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\stepeni na 2 do N\bin\Debug\stepeni na 2 do N.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\stepeni na 2 do N\obj\Debug\stepeni na 2 do N.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\stepeni na 2 do N\obj\Debug\stepeni na 2 do N.pdb

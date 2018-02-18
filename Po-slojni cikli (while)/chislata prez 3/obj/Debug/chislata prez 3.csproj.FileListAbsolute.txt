@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\bin\Debug\chislata prez 3.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\bin\Debug\chislata prez 3.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\bin\Debug\chislata prez 3.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\obj\Debug\chislata prez 3.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\obj\Debug\chislata prez 3.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\chislata prez 3\obj\Debug\chislata prez 3.pdb

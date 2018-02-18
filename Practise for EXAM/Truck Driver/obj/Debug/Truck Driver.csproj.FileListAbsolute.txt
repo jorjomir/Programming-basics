@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\bin\Debug\Truck Driver.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\bin\Debug\Truck Driver.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\bin\Debug\Truck Driver.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\obj\Debug\Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\obj\Debug\Truck Driver.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Truck Driver\obj\Debug\Truck Driver.pdb

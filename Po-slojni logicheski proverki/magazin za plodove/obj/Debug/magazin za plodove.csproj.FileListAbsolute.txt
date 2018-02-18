@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\bin\Debug\magazin za plodove.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\bin\Debug\magazin za plodove.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\bin\Debug\magazin za plodove.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\obj\Debug\magazin za plodove.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\obj\Debug\magazin za plodove.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\magazin za plodove\obj\Debug\magazin za plodove.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\bin\Debug\Bonus Tochki.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\bin\Debug\Bonus Tochki.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\bin\Debug\Bonus Tochki.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\obj\Debug\Bonus Tochki.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\obj\Debug\Bonus Tochki.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Bonus Tochki\obj\Debug\Bonus Tochki.pdb

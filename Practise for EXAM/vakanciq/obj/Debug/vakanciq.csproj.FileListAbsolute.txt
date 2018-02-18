@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\bin\Debug\vakanciq.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\bin\Debug\vakanciq.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\bin\Debug\vakanciq.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\obj\Debug\vakanciq.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\obj\Debug\vakanciq.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\vakanciq\obj\Debug\vakanciq.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\bin\Debug\Blagotvoritelna kampaniq.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\bin\Debug\Blagotvoritelna kampaniq.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\bin\Debug\Blagotvoritelna kampaniq.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\obj\Debug\Blagotvoritelna kampaniq.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\obj\Debug\Blagotvoritelna kampaniq.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Blagotvoritelna kampaniq\obj\Debug\Blagotvoritelna kampaniq.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\EXAM\2ra zad\bin\Debug\2ra zad.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\2ra zad\bin\Debug\2ra zad.exe
+C:\Users\Georgi\Desktop\C#\EXAM\2ra zad\bin\Debug\2ra zad.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\2ra zad\obj\Debug\2ra zad.exe
+C:\Users\Georgi\Desktop\C#\EXAM\2ra zad\obj\Debug\2ra zad.pdb

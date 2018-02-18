@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\bin\Debug\Voleibol.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\bin\Debug\Voleibol.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\bin\Debug\Voleibol.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\obj\Debug\Voleibol.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\obj\Debug\Voleibol.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Voleibol\Voleibol\obj\Debug\Voleibol.pdb

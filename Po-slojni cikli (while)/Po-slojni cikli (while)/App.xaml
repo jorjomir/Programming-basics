@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Po_slojni_cikli__while_.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Po_slojni_cikli__while_"
+    RequestedTheme="Light">
+
+</Application>

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\ot N naobratno\bin\Debug\ot N naobratno.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\ot N naobratno\bin\Debug\ot N naobratno.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\ot N naobratno\bin\Debug\ot N naobratno.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\ot N naobratno\obj\Debug\ot N naobratno.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\ot N naobratno\obj\Debug\ot N naobratno.pdb

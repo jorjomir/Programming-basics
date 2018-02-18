@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\kvadratna ramka\bin\Debug\kvadratna ramka.exe.config
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\kvadratna ramka\bin\Debug\kvadratna ramka.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\kvadratna ramka\bin\Debug\kvadratna ramka.pdb
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\kvadratna ramka\obj\Debug\kvadratna ramka.exe
+C:\Users\Georgi\Desktop\C#\Chertane na figurki s cikli\kvadratna ramka\obj\Debug\kvadratna ramka.pdb

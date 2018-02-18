@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\bin\Debug\kalkulator +.exe.config
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\bin\Debug\kalkulator +.exe
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\bin\Debug\kalkulator +.pdb
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\obj\Debug\kalkulator +.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\obj\Debug\kalkulator +.exe
+C:\Users\Georgi\Desktop\C#\kalkulator +\kalkulator +\obj\Debug\kalkulator +.pdb

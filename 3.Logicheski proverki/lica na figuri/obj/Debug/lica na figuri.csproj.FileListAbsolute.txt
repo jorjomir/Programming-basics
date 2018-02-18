@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\bin\Debug\lica na figuri.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\bin\Debug\lica na figuri.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\bin\Debug\lica na figuri.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\obj\Debug\lica na figuri.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\obj\Debug\lica na figuri.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\lica na figuri\obj\Debug\lica na figuri.pdb

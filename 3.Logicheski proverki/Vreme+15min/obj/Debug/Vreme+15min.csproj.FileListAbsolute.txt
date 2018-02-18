@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\bin\Debug\Vreme+15min.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\bin\Debug\Vreme+15min.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\bin\Debug\Vreme+15min.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\obj\Debug\Vreme+15min.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\obj\Debug\Vreme+15min.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Vreme+15min\obj\Debug\Vreme+15min.pdb

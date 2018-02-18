@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\bin\Debug\chetno ili nechetno.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\bin\Debug\chetno ili nechetno.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\bin\Debug\chetno ili nechetno.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\obj\Debug\chetno ili nechetno.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\obj\Debug\chetno ili nechetno.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\chetno ili nechetno\obj\Debug\chetno ili nechetno.pdb

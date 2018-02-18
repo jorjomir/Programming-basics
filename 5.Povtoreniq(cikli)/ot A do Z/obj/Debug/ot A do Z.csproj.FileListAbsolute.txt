@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\ot A do Z\bin\Debug\ot A do Z.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\ot A do Z\bin\Debug\ot A do Z.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\ot A do Z\bin\Debug\ot A do Z.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\ot A do Z\obj\Debug\ot A do Z.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\ot A do Z\obj\Debug\ot A do Z.pdb

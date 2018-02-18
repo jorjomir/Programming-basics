@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\po malkoto chislo\bin\Debug\po malkoto chislo.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\po malkoto chislo\bin\Debug\po malkoto chislo.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\po malkoto chislo\bin\Debug\po malkoto chislo.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\po malkoto chislo\obj\Debug\po malkoto chislo.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\po malkoto chislo\obj\Debug\po malkoto chislo.pdb

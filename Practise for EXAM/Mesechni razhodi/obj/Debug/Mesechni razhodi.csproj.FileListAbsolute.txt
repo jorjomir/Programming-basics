@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\bin\Debug\Mesechni razhodi.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\bin\Debug\Mesechni razhodi.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\bin\Debug\Mesechni razhodi.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\obj\Debug\Mesechni razhodi.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\obj\Debug\Mesechni razhodi.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Mesechni razhodi\obj\Debug\Mesechni razhodi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Proverka za OTL ocenka\bin\Debug\Proverka za OTL ocenka.exe.config
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Proverka za OTL ocenka\bin\Debug\Proverka za OTL ocenka.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Proverka za OTL ocenka\bin\Debug\Proverka za OTL ocenka.pdb
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Proverka za OTL ocenka\obj\Debug\Proverka za OTL ocenka.exe
+C:\Users\Georgi\Desktop\C#\Logicheski proverki\Proverka za OTL ocenka\obj\Debug\Proverka za OTL ocenka.pdb

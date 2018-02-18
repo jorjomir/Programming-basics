@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\faktoriel\bin\Debug\faktoriel.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\faktoriel\bin\Debug\faktoriel.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\faktoriel\bin\Debug\faktoriel.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\faktoriel\obj\Debug\faktoriel.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni cikli (while)\faktoriel\obj\Debug\faktoriel.pdb

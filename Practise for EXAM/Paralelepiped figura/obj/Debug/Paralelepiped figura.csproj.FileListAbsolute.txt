@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\bin\Debug\Paralelepiped figura.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\bin\Debug\Paralelepiped figura.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\bin\Debug\Paralelepiped figura.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\obj\Debug\Paralelepiped figura.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\obj\Debug\Paralelepiped figura.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Paralelepiped figura\obj\Debug\Paralelepiped figura.pdb

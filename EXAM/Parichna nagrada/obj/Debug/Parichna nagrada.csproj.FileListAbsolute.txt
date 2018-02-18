@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\bin\Debug\Parichna nagrada.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\bin\Debug\Parichna nagrada.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\bin\Debug\Parichna nagrada.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\obj\Debug\Parichna nagrada.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\obj\Debug\Parichna nagrada.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Parichna nagrada\obj\Debug\Parichna nagrada.pdb

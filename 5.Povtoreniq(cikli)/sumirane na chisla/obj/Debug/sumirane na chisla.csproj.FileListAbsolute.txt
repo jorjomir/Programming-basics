@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\sumirane na chisla\bin\Debug\sumirane na chisla.exe.config
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\sumirane na chisla\bin\Debug\sumirane na chisla.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\sumirane na chisla\bin\Debug\sumirane na chisla.pdb
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\sumirane na chisla\obj\Debug\sumirane na chisla.exe
+C:\Users\Georgi\Desktop\C#\Po-slojni logicheski proverki\Povtoreniq(cikli)\sumirane na chisla\obj\Debug\sumirane na chisla.pdb

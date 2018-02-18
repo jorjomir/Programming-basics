@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\bin\Debug\Grape and Rakia.exe.config
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\bin\Debug\Grape and Rakia.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\bin\Debug\Grape and Rakia.pdb
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\obj\Debug\Grape and Rakia.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\obj\Debug\Grape and Rakia.exe
+C:\Users\Georgi\Desktop\C#\Practise for EXAM\Grape and Rakia\obj\Debug\Grape and Rakia.pdb

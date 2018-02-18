@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\bin\Debug\Plodovi kokteili.exe.config
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\bin\Debug\Plodovi kokteili.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\bin\Debug\Plodovi kokteili.pdb
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\obj\Debug\Plodovi kokteili.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\obj\Debug\Plodovi kokteili.exe
+C:\Users\Georgi\Desktop\C#\EXAM\Plodovi kokteili\obj\Debug\Plodovi kokteili.pdb
